@@ -6,7 +6,9 @@
       <w>byebug</w>
       <w>capybara</w>
       <w>chromedriver</w>
+      <w>confirmable</w>
       <w>gravatar</w>
+      <w>navbar</w>
     </words>
   </dictionary>
 </component>
